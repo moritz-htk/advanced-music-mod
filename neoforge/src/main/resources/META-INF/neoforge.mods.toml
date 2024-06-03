@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="[3,)"
+issueTrackerURL="https://github.com/moritz-htk/Advanced-Music-Mod/issues"
+license="moritz_htk Software License Agreement (mSLA)"
+
+[[mods]]
+    modId="advanced_music_mod"
+    version="${version}"
+    displayName="Advanced Music Mod"
+    displayURL="https://sites.google.com/view/moritz-htk/mods/advanced-music-mod"
+    logoFile="icon.png"
+    credits="Lucas King, Kevin MacLeod"
+    authors="moritz_htk"
+    description='''This Minecraft mod adds new music discs to Minecraft.'''
+
+[[dependencies.advanced_music_mod]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.6,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.advanced_music_mod]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.20.6,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.advanced_music_mod]]
+    modId="architectury"
+    type="required"
+    versionRange="[12.1.3,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[modproperties.advanced_music_mod]
+    catalogueItemIcon="advanced_music_mod:music_disc_august"

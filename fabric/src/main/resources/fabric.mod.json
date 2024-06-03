@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "advanced_music_mod",
+  "version": "${version}",
+  "name": "Advanced Music Mod",
+  "description": "This Minecraft mod adds new music discs to Minecraft.",
+  "contact": {
+    "homepage": "https://sites.google.com/view/moritz-htk/mods/advanced-music-mod",
+    "issues": "https://github.com/moritz-htk/advanced-music-mod/issues",
+    "sources": "https://github.com/moritz-htk/advanced-music-mod"
+  },
+  "authors": [
+    "moritz_htk"
+  ],
+  "contributors": [
+    "Lucas King",
+    "Kevin MacLeod"
+  ],
+  "license": "moritz_htk Software License Agreement (mSLA)",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.moritz_htk.advanced_music_mod.fabric.AdvancedMusicModFabric"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.20.6",
+    "architectury": ">=12.1.3"
+  },
+  "custom": {
+    "catalogue": {
+      "icon": {
+        "item": "advancedmusicmod:music_disc_august"
+      }
+    },
+    "modmenu": {
+      "update_checker": true,
+      "links": {
+        "modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/advanced-music-mod",
+        "modmenu.github_releases": "https://github.com/moritz-htk/advanced-music-mod/releases",
+        "modmenu.modrinth": "https://modrinth.com/mod/advanced-music-mod"
+      }
+    }
+  }
+}
