@@ -31,7 +31,7 @@ Click [here](https://github.com/moritz-htk/advanced-music-mod/releases) to get t
 - [Kevin MacLeod](https://soundcloud.com/kevin-9-1) (Composer)
 
 ## Dependencies
-- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) (v12.1.3 and above)
+- [Architectury API](https://github.com/architectury/architectury-api) (v12.1.3 and above)
 
 ## Maven
 Advanced Music Mod is available via [Curse Maven](https://www.cursemaven.com/) for developers wishing to make use of my mod.
