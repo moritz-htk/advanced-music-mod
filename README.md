@@ -13,9 +13,9 @@ The Advanced Music Mod was created by [moritz_htk](https://github.com/moritz-htk
 Each of the newly added music is copyright free. You can find each disc in familiar overworld structures like villages, temples, and more.
 
 ## Latest versions
-| Mod Version  | Fabric | Quilt | Forge | NeoForge |
-|--------------|--------|-------|-------|----------|
-| 2.0.0+1.20.6 | ✔      | ✖     | ✖     | ✔        |
+| Version | Latest Version | Mod Loader       | Support |
+|---------|----------------|------------------|---------|
+| 1.20.x  | 2.0.1+1.20.6   | Fabric, NeoForge | Active  |
 
 Click [here](https://github.com/moritz-htk/advanced-music-mod/releases) to get to the release list!
 
