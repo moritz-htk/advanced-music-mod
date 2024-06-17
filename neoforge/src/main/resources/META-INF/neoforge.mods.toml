@@ -16,21 +16,21 @@ license="moritz_htk Software License Agreement (mSLA)"
 [[dependencies.advanced_music_mod]]
     modId="neoforge"
     type="required"
-    versionRange="[20.6,)"
+    versionRange="[21.0,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.advanced_music_mod]]
     modId="minecraft"
     type="required"
-    versionRange="[1.20.6,)"
+    versionRange="[1.21,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.advanced_music_mod]]
     modId="architectury"
     type="required"
-    versionRange="[12.1.3,)"
+    versionRange="[13.0.1,)"
     ordering="AFTER"
     side="BOTH"
 

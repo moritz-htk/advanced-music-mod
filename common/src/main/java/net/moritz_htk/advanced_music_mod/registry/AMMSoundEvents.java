@@ -26,7 +26,7 @@ public class AMMSoundEvents {
     public static final RegistrySupplier<SoundEvent> MUSIC_DISC_WITH_REGARDS = registerSoundEvent("music_disc.with_regards");
     
     private static RegistrySupplier<SoundEvent> registerSoundEvent(String name) {
-        ResourceLocation id = new ResourceLocation(AdvancedMusicMod.MOD_ID, name);
+        ResourceLocation id = ResourceLocation.fromNamespaceAndPath(AdvancedMusicMod.MOD_ID, name);
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(id));
     }
 }

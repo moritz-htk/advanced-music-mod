@@ -34,6 +34,6 @@ public class AMMSoundProvider extends SoundDefinitionsProvider {
     }
     
     private void addSound(final Supplier<SoundEvent> soundEvent, String path) {
-        add(soundEvent, definition().with(sound(new ResourceLocation(AdvancedMusicMod.MOD_ID, path)).stream(true)));
+        add(soundEvent, definition().with(sound(ResourceLocation.fromNamespaceAndPath(AdvancedMusicMod.MOD_ID, path)).stream(true)));
     }
 }

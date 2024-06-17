@@ -16,11 +16,12 @@ Each of the newly added music is copyright free. You can find each disc in famil
 | Version | Latest Version | Mod Loader       | Support |
 |---------|----------------|------------------|---------|
 | 1.20.x  | 2.0.1+1.20.6   | Fabric, NeoForge | Active  |
+| 1.21.x  | 2.0.2+1.21     | Fabric, NeoForge | Active  |
 
 Click [here](https://github.com/moritz-htk/advanced-music-mod/releases) to get to the release list!
 
 ## Supported languages
-- English, German, Spanish
+- English, French, German, Japanese, Portuguese, Russian, Spanish
 
 ## Planned functions
 - more music discs
@@ -31,7 +32,7 @@ Click [here](https://github.com/moritz-htk/advanced-music-mod/releases) to get t
 - [Kevin MacLeod](https://soundcloud.com/kevin-9-1) (Composer)
 
 ## Dependencies
-- [Architectury API](https://github.com/architectury/architectury-api) (v12.1.3 and above)
+- [Architectury API](https://github.com/architectury/architectury-api) (v13.0.1 and above)
 
 ## Maven
 Advanced Music Mod is available via [Curse Maven](https://www.cursemaven.com/) for developers wishing to make use of my mod.

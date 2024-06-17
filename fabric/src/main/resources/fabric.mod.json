@@ -26,13 +26,13 @@
   },
   "depends": {
     "fabric": "*",
-    "minecraft": ">=1.20.6",
-    "architectury": ">=12.1.3"
+    "minecraft": ">=1.21",
+    "architectury": ">=13.0.1"
   },
   "custom": {
     "catalogue": {
       "icon": {
-        "item": "advancedmusicmod:music_disc_august"
+        "item": "advanced_music_mod:music_disc_august"
       }
     },
     "modmenu": {
