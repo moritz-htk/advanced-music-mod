@@ -15,7 +15,7 @@ Each of the newly added music is copyright free. You can find each disc in famil
 ## Latest versions
 | Version | Latest Version | Mod Loader       | Support |
 |---------|----------------|------------------|---------|
-| 1.20.x  | 2.0.1+1.20.6   | Fabric, NeoForge | Active  |
+| 1.20.x  | 2.0.2+1.20.6   | Fabric, NeoForge | Active  |
 | 1.21.x  | 2.0.2+1.21     | Fabric, NeoForge | Active  |
 
 Click [here](https://github.com/moritz-htk/advanced-music-mod/releases) to get to the release list!
