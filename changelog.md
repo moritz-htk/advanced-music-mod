@@ -1,2 +1,3 @@
 **Changes:**
-- Fixed NeoForge issue link
+- Added French, Japanese, Portuguese and Russian language
+- Fixed Fabric Catalogue item icon
