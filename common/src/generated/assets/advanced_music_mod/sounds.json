@@ -31,6 +31,14 @@
       }
     ]
   },
+  "music_disc.guzheng_city": {
+    "sounds": [
+      {
+        "name": "advanced_music_mod:records/guzheng_city",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.hedwig": {
     "sounds": [
       {
@@ -59,6 +67,14 @@
     "sounds": [
       {
         "name": "advanced_music_mod:records/midnight_tale",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.night_cave": {
+    "sounds": [
+      {
+        "name": "advanced_music_mod:records/night_cave",
         "stream": true
       }
     ]

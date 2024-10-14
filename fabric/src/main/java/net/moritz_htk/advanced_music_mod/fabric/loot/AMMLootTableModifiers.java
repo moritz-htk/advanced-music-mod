@@ -24,10 +24,12 @@ public class AMMLootTableModifiers {
             addLoot(key, BuiltInLootTables.VILLAGE_DESERT_HOUSE, tableBuilder, AMMItems.MUSIC_DISC_CATTAILS.get());
             addLoot(key, BuiltInLootTables.WOODLAND_MANSION, tableBuilder, AMMItems.MUSIC_DISC_CHERRY_BLOSSOM.get());
             addLoot(key, BuiltInLootTables.STRONGHOLD_CORRIDOR, tableBuilder, AMMItems.MUSIC_DISC_DEATH_OF_KINGS.get());
+            addLoot(key, BuiltInLootTables.VILLAGE_TOOLSMITH, tableBuilder, AMMItems.MUSIC_DISC_GUZHENG_CITY.get());
             addLoot(key, BuiltInLootTables.UNDERWATER_RUIN_BIG, tableBuilder, AMMItems.MUSIC_DISC_HEDWIG.get());
             addLoot(key, BuiltInLootTables.SHIPWRECK_TREASURE, tableBuilder, AMMItems.MUSIC_DISC_JUST_IN_TIME.get());
             addLoot(key, BuiltInLootTables.RUINED_PORTAL, tableBuilder, AMMItems.MUSIC_DISC_LAPSE.get());
             addLoot(key, BuiltInLootTables.PILLAGER_OUTPOST, tableBuilder, AMMItems.MUSIC_DISC_MIDNIGHT_TALE.get());
+            addLoot(key, BuiltInLootTables.STRONGHOLD_LIBRARY, tableBuilder, AMMItems.MUSIC_DISC_NIGHT_CAVE.get());
             addLoot(key, BuiltInLootTables.ANCIENT_CITY, tableBuilder, AMMItems.MUSIC_DISC_PAIN.get());
             addLoot(key, BuiltInLootTables.BURIED_TREASURE, tableBuilder, AMMItems.MUSIC_DISC_QUIET.get());
             addLoot(key, BuiltInLootTables.JUNGLE_TEMPLE, tableBuilder, AMMItems.MUSIC_DISC_SCREEN_SAVER.get());

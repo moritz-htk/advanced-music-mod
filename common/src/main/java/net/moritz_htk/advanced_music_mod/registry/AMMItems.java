@@ -16,10 +16,12 @@ public class AMMItems {
     public static final RegistrySupplier<Item> MUSIC_DISC_CATTAILS = registerItem("music_disc_cattails", AMMSoundEvents.MUSIC_DISC_CATTAILS, 156);
     public static final RegistrySupplier<Item> MUSIC_DISC_CHERRY_BLOSSOM = registerItem("music_disc_cherry_blossom", AMMSoundEvents.MUSIC_DISC_CHERRY_BLOSSOM, 127);
     public static final RegistrySupplier<Item> MUSIC_DISC_DEATH_OF_KINGS = registerItem("music_disc_death_of_kings", AMMSoundEvents.MUSIC_DISC_DEATH_OF_KINGS, 143);
+    public static final RegistrySupplier<Item> MUSIC_DISC_GUZHENG_CITY = registerItem("music_disc_guzheng_city", AMMSoundEvents.MUSIC_DISC_GUZHENG_CITY, 144);
     public static final RegistrySupplier<Item> MUSIC_DISC_HEDWIG = registerItem("music_disc_hedwig", AMMSoundEvents.MUSIC_DISC_HEDWIG, 175);
     public static final RegistrySupplier<Item> MUSIC_DISC_JUST_IN_TIME = registerItem("music_disc_just_in_time", AMMSoundEvents.MUSIC_DISC_JUST_IN_TIME, 202);
     public static final RegistrySupplier<Item> MUSIC_DISC_LAPSE = registerItem("music_disc_lapse", AMMSoundEvents.MUSIC_DISC_LAPSE, 117);
     public static final RegistrySupplier<Item> MUSIC_DISC_MIDNIGHT_TALE = registerItem("music_disc_midnight_tale", AMMSoundEvents.MUSIC_DISC_MIDNIGHT_TALE, 153);
+    public static final RegistrySupplier<Item> MUSIC_DISC_NIGHT_CAVE = registerItem("music_disc_night_cave", AMMSoundEvents.MUSIC_DISC_NIGHT_CAVE, 110);
     public static final RegistrySupplier<Item> MUSIC_DISC_PAIN = registerItem("music_disc_pain", AMMSoundEvents.MUSIC_DISC_PAIN, 174);
     public static final RegistrySupplier<Item> MUSIC_DISC_QUIET = registerItem("music_disc_quiet", AMMSoundEvents.MUSIC_DISC_QUIET, 148);
     public static final RegistrySupplier<Item> MUSIC_DISC_SCREEN_SAVER = registerItem("music_disc_screen_saver", AMMSoundEvents.MUSIC_DISC_SCREEN_SAVER, 176);

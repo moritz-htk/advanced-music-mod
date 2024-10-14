@@ -10,12 +10,12 @@
 
 The Advanced Music Mod was created by [moritz_htk](https://github.com/moritz-htk). It contains 14 new music discs with music by Lucas King and Kevin MacLeod.
 
-Each of the newly added music is copyright free. You can find each disc in familiar overworld structures like villages, temples, and more.
+Each of the newly added music has been carefully selected and is copyright free. You can find each disc in familiar overworld structures like villages, temples, and more.
 
 ## Latest versions
 | Version | Latest Version | Mod Loader       | Support |
 |---------|----------------|------------------|---------|
-| 1.20.x  | 2.0.2+1.20.6   | Fabric, NeoForge | Active  |
+| 1.20.x  | 2.1.0+1.20.6   | Fabric, NeoForge | Active  |
 
 Click [here](https://github.com/moritz-htk/advanced-music-mod/releases) to get to the release list!
 

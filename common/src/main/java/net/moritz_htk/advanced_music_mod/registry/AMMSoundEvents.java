@@ -14,10 +14,12 @@ public class AMMSoundEvents {
     public static final RegistrySupplier<SoundEvent> MUSIC_DISC_CATTAILS = registerSoundEvent("music_disc.cattails");
     public static final RegistrySupplier<SoundEvent> MUSIC_DISC_CHERRY_BLOSSOM = registerSoundEvent("music_disc.cherry_blossom");
     public static final RegistrySupplier<SoundEvent> MUSIC_DISC_DEATH_OF_KINGS = registerSoundEvent("music_disc.death_of_kings");
+    public static final RegistrySupplier<SoundEvent> MUSIC_DISC_GUZHENG_CITY = registerSoundEvent("music_disc.guzheng_city");
     public static final RegistrySupplier<SoundEvent> MUSIC_DISC_HEDWIG = registerSoundEvent("music_disc.hedwig");
     public static final RegistrySupplier<SoundEvent> MUSIC_DISC_JUST_IN_TIME = registerSoundEvent("music_disc.just_in_time");
     public static final RegistrySupplier<SoundEvent> MUSIC_DISC_LAPSE = registerSoundEvent("music_disc.lapse");
     public static final RegistrySupplier<SoundEvent> MUSIC_DISC_MIDNIGHT_TALE = registerSoundEvent("music_disc.midnight_tale");
+    public static final RegistrySupplier<SoundEvent> MUSIC_DISC_NIGHT_CAVE = registerSoundEvent("music_disc.night_cave");
     public static final RegistrySupplier<SoundEvent> MUSIC_DISC_PAIN = registerSoundEvent("music_disc.pain");
     public static final RegistrySupplier<SoundEvent> MUSIC_DISC_QUIET = registerSoundEvent("music_disc.quiet");
     public static final RegistrySupplier<SoundEvent> MUSIC_DISC_SCREEN_SAVER = registerSoundEvent("music_disc.screen_saver");

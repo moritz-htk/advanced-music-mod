@@ -21,10 +21,12 @@ public class AMMSoundProvider extends SoundDefinitionsProvider {
         addSound(AMMSoundEvents.MUSIC_DISC_CATTAILS, "records/cattails");
         addSound(AMMSoundEvents.MUSIC_DISC_CHERRY_BLOSSOM, "records/cherry_blossom");
         addSound(AMMSoundEvents.MUSIC_DISC_DEATH_OF_KINGS, "records/death_of_kings");
+        addSound(AMMSoundEvents.MUSIC_DISC_GUZHENG_CITY, "records/guzheng_city");
         addSound(AMMSoundEvents.MUSIC_DISC_HEDWIG, "records/hedwig");
         addSound(AMMSoundEvents.MUSIC_DISC_JUST_IN_TIME, "records/just_in_time");
         addSound(AMMSoundEvents.MUSIC_DISC_LAPSE, "records/lapse");
         addSound(AMMSoundEvents.MUSIC_DISC_MIDNIGHT_TALE, "records/midnight_tale");
+        addSound(AMMSoundEvents.MUSIC_DISC_NIGHT_CAVE, "records/night_cave");
         addSound(AMMSoundEvents.MUSIC_DISC_PAIN, "records/pain");
         addSound(AMMSoundEvents.MUSIC_DISC_QUIET, "records/quiet");
         addSound(AMMSoundEvents.MUSIC_DISC_SCREEN_SAVER, "records/screen_saver");

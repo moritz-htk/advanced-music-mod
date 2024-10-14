@@ -35,10 +35,12 @@ public class AMMGlobalLootModifierProvider extends GlobalLootModifierProvider {
         addLoot("music_disc_cattails_village_desert_house", AMMItems.MUSIC_DISC_CATTAILS.get(), BuiltInLootTables.VILLAGE_DESERT_HOUSE);
         addLoot("music_disc_cherry_blossom_woodland_mansion", AMMItems.MUSIC_DISC_CHERRY_BLOSSOM.get(), BuiltInLootTables.WOODLAND_MANSION);
         addLoot("music_disc_death_of_kings_stronghold_corridor", AMMItems.MUSIC_DISC_DEATH_OF_KINGS.get(), BuiltInLootTables.STRONGHOLD_CORRIDOR);
+        addLoot("music_disc_guzheng_city_village_toolsmith", AMMItems.MUSIC_DISC_GUZHENG_CITY.get(), BuiltInLootTables.VILLAGE_TOOLSMITH);
         addLoot("music_disc_hedwig_underwater_ruin_big", AMMItems.MUSIC_DISC_HEDWIG.get(), BuiltInLootTables.UNDERWATER_RUIN_BIG);
         addLoot("music_disc_just_in_time_shipwreck_treasure", AMMItems.MUSIC_DISC_JUST_IN_TIME.get(), BuiltInLootTables.SHIPWRECK_TREASURE);
         addLoot("music_disc_lapse_ruined_portal", AMMItems.MUSIC_DISC_LAPSE.get(), BuiltInLootTables.RUINED_PORTAL);
         addLoot("music_disc_midnight_tale_pillager_outpost", AMMItems.MUSIC_DISC_MIDNIGHT_TALE.get(), BuiltInLootTables.PILLAGER_OUTPOST);
+        addLoot("music_disc_night_cave_stronghold_library", AMMItems.MUSIC_DISC_NIGHT_CAVE.get(), BuiltInLootTables.STRONGHOLD_LIBRARY);
         addLoot("music_disc_pain_ancient_city", AMMItems.MUSIC_DISC_PAIN.get(), BuiltInLootTables.ANCIENT_CITY);
         addLoot("music_disc_quiet_buried_treasure", AMMItems.MUSIC_DISC_QUIET.get(), BuiltInLootTables.BURIED_TREASURE);
         addLoot("music_disc_screen_save_jungle_temple", AMMItems.MUSIC_DISC_SCREEN_SAVER.get(), BuiltInLootTables.JUNGLE_TEMPLE);
